@@ -3,6 +3,7 @@ import { BarCodeScanner } from 'expo-barcode-scanner';
 import React, { useState, useEffect } from 'react';
 import { Camera } from 'expo-camera';
 
+
 export default function App() {
 //  return (
 //    <View style={styles.container}>
